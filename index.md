@@ -9,10 +9,8 @@
 ## Summary
 
 Intellectually curious, team oriented Software Developer with an Associate of Applied Science in
-Radiology (Magna Cum Laude receiving coveted Radiology Academic Achievement Award) eager to
-work with future-forward, high performing development teams; intuitive, quick thinking, and mission
-driven; naturally drawn to solving complex problems and take on impossible challenges with a positive
-mindset and unfailing resolve.
+Radiology. Eager to work with future-forward, high performing development teams; intuitive, quick thinking, and mission
+driven; naturally drawn to solving complex problems and take on impossible challenges with a positive mindset and unfailing resolve.
 
 ## Technical Skills
 
